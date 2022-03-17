@@ -19,7 +19,6 @@ function ContentRowTop(){
 					<ContentRowCenter />
 					<Routes>
 						<Route path='/table' element={<Chart />}/>
-
 						<Route path='*' element={<Error />}/>
 					</Routes>
 					

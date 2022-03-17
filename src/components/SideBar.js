@@ -1,5 +1,5 @@
 import React from 'react';
-import image from '../assets/images/logo-DH.png';
+import image from '../assets/images/Pl_corto.png';
 import { Link } from "react-router-dom";
 
 
@@ -23,7 +23,7 @@ function SideBar(){
                 <li className="nav-item active">
                     <Link className="nav-link" to="/">
                         <i className="fas fa-fw fa-tachometer-alt"></i>
-                        <span>Dashboard - DH movies</span></Link>
+                        <span>Dashboard - PL perfumes</span></Link>
                 </li>
 
                 {/*<!-- Divider -->*/}
